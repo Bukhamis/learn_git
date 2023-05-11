@@ -1,0 +1,9 @@
+
+
+ <ul>Insha'Allah Ameer will mentor Yaser in the following topics:
+
+            <li>Terraform</li>
+            <li>Azure Cloud</li>
+            <li>Cloud Architecture</li>
+
+        </ul>
